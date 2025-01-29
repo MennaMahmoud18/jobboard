@@ -1,2 +1,2 @@
 # jobboard
-register / login project
+register/login project
